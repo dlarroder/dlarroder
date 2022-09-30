@@ -1,9 +1,3 @@
-
-
-# Hi there 👋
-
-I'm Dale Larroder, a Full Stack Developer from the Philippines. You can learn more about me [here](https://www.dalelarroder.com/).
-
 #### Github Stats
 ![Dale's GitHub stats](https://streakingman-github-readme-stats.vercel.app/api?username=dlarroder&show_icons=true&show_icons=true&count_private=true&&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217)
 
